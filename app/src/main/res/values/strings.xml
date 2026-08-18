@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Auto Data Toggle</string>
-    <string name="accessibility_service_description">Auto Data Toggle apni Accessibility permission sirf ek kaam ke liye use karti hai: jab WiFi connect ho, phone ki Settings mein Mobile Data ka toggle khud tap karke band karna. Ye koi aur data nahi padhti ya kahin nahi bhejti.</string>
-</resources>
